@@ -6,7 +6,7 @@
   html,
 
 body{
-  background-image:url("file:///Users/kadenbrothers/Downloads/myHeader.jpg") no-repeat center center fixed; 
+  background-image:url("https:///Users/kadenbrothers/Downloads/myHeader.jpg") no-repeat center center fixed; 
   background-size: cover;
   height: 100%;
   width: 100%;
