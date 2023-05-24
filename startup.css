@@ -1,12 +1,7 @@
-
-
-
-
-  
-  html,
+ html,
 
 .body{
-  background-image:url(file:///Users/kadenbrothers/Downloads/myHeader.jpg) no-repeat center center fixed; 
+  background: url(file:///Users/kadenbrothers/Downloads/myHeader.jpg) no-repeat center center fixed; 
   background-size: cover;
   height: 100%;
   width: 100%;
@@ -18,7 +13,7 @@ hr {
   max-width: 65px;
   border-width: 3px;
   border-color: #F05F44; 
-  
+
 }
 
 h1 {
@@ -53,4 +48,14 @@ h1 {
 .btn-xl {
   padding: 1rem 2rem; 
 }
+
+
+
+
+
+  
+
+
+
+
 
